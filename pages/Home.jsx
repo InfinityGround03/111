@@ -14,7 +14,7 @@ function Home() {
       <div className="relative z-10 max-w-4xl mx-auto p-4 md:p-8">
         <div className="mb-8 text-center">
           <h1 className="text-6xl md:text-7xl font-bold bg-gradient-to-r from-[#bb00ff] to-[#90B5FF] bg-clip-text text-transparent mb-4">
-            AI Chatbot
+            111111
           </h1>
           <p className="text-xl text-gray-300">
             Your intelligent conversation companion
